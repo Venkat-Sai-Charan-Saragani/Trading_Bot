@@ -64,7 +64,7 @@ Trading_Bot/
 ## 1. Clone the Repository
 
 ```bash
-git clone <your_repository_link>
+git clone <https://github.com/Venkat-Sai-Charan-Saragani/Trading_Bot/blob/main/README.md>
 cd Trading_Bot
 ```
 
